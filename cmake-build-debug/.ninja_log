@@ -1,9 +1,0 @@
-# ninja log v6
-8	501	8149337996440479	CMakeFiles/SiralamaTesti.dir/src/algorithms.cpp.obj	a7630779b769f492
-11	560	8149338678330365	CMakeFiles/SiralamaTesti.dir/src/utils.cpp.obj	7c2294ed72babff3
-4	1257	8149338678259881	CMakeFiles/SiralamaTesti.dir/src/main.cpp.obj	bff21c7cf44ce3b8
-1258	1359	8149338690793039	SiralamaTesti.exe	6528d84bf48d8a02
-8	393	8149341775461978	CMakeFiles/SortingAlgorithmsComparison.dir/src/algorithms.cpp.obj	5a32681241be3c2e
-13	552	8149341775512386	CMakeFiles/SortingAlgorithmsComparison.dir/src/utils.cpp.obj	32ede86d2322c37f
-2	1192	8149341775396569	CMakeFiles/SortingAlgorithmsComparison.dir/src/main.cpp.obj	75ff366bf1d661fa
-1193	1298	8149341787312813	SortingAlgorithmsComparison.exe	80acd3a567f5972b

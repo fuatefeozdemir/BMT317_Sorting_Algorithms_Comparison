@@ -1,3 +1,0 @@
-C:/Users/PC/CLionProjects/BMT317-Sorting-Algorithms-Comparison/cmake-build-debug/CMakeFiles/SortingAlgorithmsComparison.dir
-C:/Users/PC/CLionProjects/BMT317-Sorting-Algorithms-Comparison/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/PC/CLionProjects/BMT317-Sorting-Algorithms-Comparison/cmake-build-debug/CMakeFiles/rebuild_cache.dir
