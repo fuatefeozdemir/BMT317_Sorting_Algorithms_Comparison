@@ -1,0 +1,217 @@
+Algoritma,Veri_Tipi,Boyut(n),Ortalama_Sure(ms),Karsilastirma,Swap_Hareket
+Selection,Rastgele,100,0.0203,4950,91
+Selection,Sirali,100,0.0169,4950,0
+Selection,Ters Sirali,100,0.0222,4950,50
+Selection,Kismen Sirali,100,0.01722,4950,10
+Insertion,Rastgele,100,0.01688,2365,2370
+Insertion,Sirali,100,0.00062,99,99
+Insertion,Ters Sirali,100,0.03566,4950,5045
+Insertion,Kismen Sirali,100,0.00554,732,734
+Bubble,Rastgele,100,0.04168,4922,2271
+Bubble,Sirali,100,0.00042,99,0
+Bubble,Ters Sirali,100,0.04712,4950,4946
+Bubble,Kismen Sirali,100,0.02792,4650,635
+Shell,Rastgele,100,0.00714,875,920
+Shell,Sirali,100,0.003,503,503
+Shell,Ters Sirali,100,0.00484,668,763
+Shell,Kismen Sirali,100,0.00524,708,723
+Quick,Rastgele,100,0.00592,871,175
+Quick,Sirali,100,0.00264,607,65
+Quick,Ters Sirali,100,0.00266,611,112
+Quick,Kismen Sirali,100,0.00282,607,83
+Merge,Rastgele,100,0.06744,535,1344
+Merge,Sirali,100,0.05258,356,1344
+Merge,Ters Sirali,100,0.05348,320,1344
+Merge,Kismen Sirali,100,0.05468,489,1344
+Heap,Rastgele,100,0.01008,1033,591
+Heap,Sirali,100,0.0104,1081,636
+Heap,Ters Sirali,100,0.00886,944,516
+Heap,Kismen Sirali,100,0.01022,1076,630
+Quick_FirstPivot,Rastgele,100,0.0045,749,160
+Quick_FirstPivot,Sirali,100,0.0134,4795,92
+Quick_FirstPivot,Ters Sirali,100,0.01392,4827,96
+Quick_FirstPivot,Kismen Sirali,100,0.00568,1441,99
+Shell_Knuth,Rastgele,100,0.00642,745,783
+Shell_Knuth,Sirali,100,0.00222,342,342
+Shell_Knuth,Ters Sirali,100,0.00362,497,569
+Shell_Knuth,Kismen Sirali,100,0.00456,617,627
+Selection,Rastgele,1000,1.78812,499500,993
+Selection,Sirali,1000,1.79942,499500,0
+Selection,Ters Sirali,1000,2.35142,499500,530
+Selection,Kismen Sirali,1000,2.01598,499500,106
+Insertion,Rastgele,1000,1.84992,252445,252451
+Insertion,Sirali,1000,0.00626,999,999
+Insertion,Ters Sirali,1000,3.5247,499497,500445
+Insertion,Kismen Sirali,1000,0.4426,60721,60721
+Bubble,Rastgele,1000,4.48038,498759,251452
+Bubble,Sirali,1000,0.00424,999,0
+Bubble,Ters Sirali,1000,6.11208,499500,499446
+Bubble,Kismen Sirali,1000,2.76316,495845,59722
+Shell,Rastgele,1000,0.16486,14640,15168
+Shell,Sirali,1000,0.05294,8006,8006
+Shell,Ters Sirali,1000,0.08128,11692,12682
+Shell,Kismen Sirali,1000,0.14024,13395,13517
+Quick,Rastgele,1000,0.11626,14166,2618
+Quick,Sirali,1000,0.03158,9121,555
+Quick,Ters Sirali,1000,0.03422,9142,1053
+Quick,Kismen Sirali,1000,0.04962,9671,929
+Merge,Rastgele,1000,0.67724,8723,19952
+Merge,Sirali,1000,0.57456,5044,19952
+Merge,Ters Sirali,1000,0.57208,4959,19952
+Merge,Kismen Sirali,1000,0.58366,7980,19952
+Heap,Rastgele,1000,0.20892,16802,9057
+Heap,Sirali,1000,0.19572,17556,9689
+Heap,Ters Sirali,1000,0.17514,15965,8311
+Heap,Kismen Sirali,1000,0.19638,17420,9594
+Quick_FirstPivot,Rastgele,1000,0.10838,11303,2451
+Quick_FirstPivot,Sirali,1000,1.29188,474453,955
+Quick_FirstPivot,Ters Sirali,1000,1.22668,456107,958
+Quick_FirstPivot,Kismen Sirali,1000,0.14428,45259,1105
+Shell_Knuth,Rastgele,1000,0.15486,13845,14289
+Shell_Knuth,Sirali,1000,0.0347,5457,5457
+Shell_Knuth,Ters Sirali,1000,0.06134,8522,9349
+Shell_Knuth,Kismen Sirali,1000,0.1274,11134,11220
+Selection,Rastgele,5000,51.7926,12497500,4989
+Selection,Sirali,5000,48.7176,12497500,0
+Selection,Ters Sirali,5000,54.367,12497500,2671
+Selection,Kismen Sirali,5000,47.4286,12497500,520
+Insertion,Rastgele,5000,41.83,6135475,6135483
+Insertion,Sirali,5000,0.03,4999,4999
+Insertion,Ters Sirali,5000,86.1034,12497482,12502130
+Insertion,Kismen Sirali,5000,9.36804,1392490,1392492
+Bubble,Rastgele,5000,119.449,12495609,6130484
+Bubble,Sirali,5000,0.01868,4999,0
+Bubble,Ters Sirali,5000,141.197,12497500,12497131
+Bubble,Kismen Sirali,5000,69.8767,12497149,1387493
+Shell,Rastgele,5000,1.19088,114206,116728
+Shell,Sirali,5000,0.39172,55005,55005
+Shell,Ters Sirali,5000,0.5555,78644,83631
+Shell,Kismen Sirali,5000,1.0018,96883,97545
+Quick,Rastgele,5000,0.68254,80364,15743
+Quick,Sirali,5000,0.18822,58398,3184
+Quick,Ters Sirali,5000,0.20292,58269,5653
+Quick,Kismen Sirali,5000,0.29126,60228,5149
+Merge,Rastgele,5000,3.66002,55252,123616
+Merge,Sirali,5000,3.17996,32004,123616
+Merge,Ters Sirali,5000,3.15898,30027,123616
+Merge,Kismen Sirali,5000,3.28502,52426,123616
+Heap,Rastgele,5000,1.3289,107708,57085
+Heap,Sirali,5000,1.23852,112107,60657
+Heap,Ters Sirali,5000,1.17798,103233,53410
+Heap,Kismen Sirali,5000,1.30486,111272,60082
+Quick_FirstPivot,Rastgele,5000,0.62378,75781,14633
+Quick_FirstPivot,Sirali,5000,29.3482,11675369,4683
+Quick_FirstPivot,Ters Sirali,5000,27.8149,10928684,4739
+Quick_FirstPivot,Kismen Sirali,5000,0.76758,225522,5840
+Shell_Knuth,Rastgele,5000,1.03984,98182,100336
+Shell_Knuth,Sirali,5000,0.22456,35084,35084
+Shell_Knuth,Ters Sirali,5000,0.3921,51283,54087
+Shell_Knuth,Kismen Sirali,5000,0.88366,83701,84159
+Selection,Rastgele,10000,183.097,49995000,9988
+Selection,Sirali,10000,180.272,49995000,0
+Selection,Ters Sirali,10000,213.521,49995000,5543
+Selection,Kismen Sirali,10000,181.158,49995000,1143
+Insertion,Rastgele,10000,160.249,24785904,24785912
+Insertion,Sirali,10000,0.05788,9999,9999
+Insertion,Ters Sirali,10000,324.23,49994857,50003469
+Insertion,Kismen Sirali,10000,39.516,5977503,5977503
+Bubble,Rastgele,10000,493.522,49984989,24775913
+Bubble,Sirali,10000,0.03642,9999,0
+Bubble,Ters Sirali,10000,537.395,49995000,49993470
+Bubble,Kismen Sirali,10000,263.553,49916394,5967504
+Shell,Rastgele,10000,2.48076,268207,273271
+Shell,Sirali,10000,0.79566,120005,120005
+Shell,Ters Sirali,10000,1.16746,171928,181915
+Shell,Kismen Sirali,10000,2.13284,231977,233329
+Quick,Rastgele,10000,1.34156,181131,33665
+Quick,Sirali,10000,0.39222,127681,6738
+Quick,Ters Sirali,10000,0.41056,127550,11733
+Quick,Kismen Sirali,10000,0.59968,132834,11211
+Merge,Rastgele,10000,6.5885,120442,267232
+Merge,Sirali,10000,5.77092,69008,267232
+Merge,Ters Sirali,10000,5.84774,65495,267232
+Merge,Kismen Sirali,10000,6.19778,114878,267232
+Heap,Rastgele,10000,2.59642,235222,124109
+Heap,Sirali,10000,2.32948,244497,131392
+Heap,Ters Sirali,10000,2.26588,226707,116679
+Heap,Kismen Sirali,10000,2.49798,242515,130074
+Quick_FirstPivot,Rastgele,10000,1.20214,173749,31397
+Quick_FirstPivot,Sirali,10000,103.258,43525288,8841
+Quick_FirstPivot,Ters Sirali,10000,88.2228,38275758,9245
+Quick_FirstPivot,Kismen Sirali,10000,1.71244,582139,11818
+Shell_Knuth,Rastgele,10000,2.49732,247049,251374
+Shell_Knuth,Sirali,10000,0.47762,75243,75243
+Shell_Knuth,Ters Sirali,10000,1.07098,119406,128163
+Shell_Knuth,Kismen Sirali,10000,1.84794,186410,187406
+Selection,Rastgele,50000,Limit Asimi,-,-
+Selection,Sirali,50000,Limit Asimi,-,-
+Selection,Ters Sirali,50000,Limit Asimi,-,-
+Selection,Kismen Sirali,50000,Limit Asimi,-,-
+Insertion,Rastgele,50000,Limit Asimi,-,-
+Insertion,Sirali,50000,Limit Asimi,-,-
+Insertion,Ters Sirali,50000,Limit Asimi,-,-
+Insertion,Kismen Sirali,50000,Limit Asimi,-,-
+Bubble,Rastgele,50000,Limit Asimi,-,-
+Bubble,Sirali,50000,Limit Asimi,-,-
+Bubble,Ters Sirali,50000,Limit Asimi,-,-
+Bubble,Kismen Sirali,50000,Limit Asimi,-,-
+Shell,Rastgele,50000,16.5783,1874562,1899908
+Shell,Sirali,50000,5.02372,700006,700006
+Shell,Ters Sirali,50000,7.4878,1026708,1076689
+Shell,Kismen Sirali,50000,11.7243,1277046,1282148
+Quick,Rastgele,50000,7.83814,1058469,199599
+Quick,Sirali,50000,2.79538,768392,45231
+Quick,Ters Sirali,50000,3.04438,768205,70230
+Quick,Kismen Sirali,50000,3.92592,804378,70768
+Merge,Rastgele,50000,36.6555,718392,1568928
+Merge,Sirali,50000,31.0638,401952,1568928
+Merge,Ters Sirali,50000,29.6776,402164,1568928
+Merge,Kismen Sirali,50000,31.4533,581425,1568928
+Heap,Rastgele,50000,15.9569,1409948,737580
+Heap,Sirali,50000,14.8755,1456811,774209
+Heap,Ters Sirali,50000,13.6616,1366023,698989
+Heap,Kismen Sirali,50000,15.4502,1449987,769560
+Quick_FirstPivot,Rastgele,50000,Limit Asimi,-,-
+Quick_FirstPivot,Sirali,50000,Limit Asimi,-,-
+Quick_FirstPivot,Ters Sirali,50000,Limit Asimi,-,-
+Quick_FirstPivot,Kismen Sirali,50000,Limit Asimi,-,-
+Shell_Knuth,Rastgele,50000,14.7691,1645990,1668634
+Shell_Knuth,Sirali,50000,3.06682,455719,455719
+Shell_Knuth,Ters Sirali,50000,4.76694,672886,710155
+Shell_Knuth,Kismen Sirali,50000,8.0067,986184,990249
+Selection,Rastgele,100000,Limit Asimi,-,-
+Selection,Sirali,100000,Limit Asimi,-,-
+Selection,Ters Sirali,100000,Limit Asimi,-,-
+Selection,Kismen Sirali,100000,Limit Asimi,-,-
+Insertion,Rastgele,100000,Limit Asimi,-,-
+Insertion,Sirali,100000,Limit Asimi,-,-
+Insertion,Ters Sirali,100000,Limit Asimi,-,-
+Insertion,Kismen Sirali,100000,Limit Asimi,-,-
+Bubble,Rastgele,100000,Limit Asimi,-,-
+Bubble,Sirali,100000,Limit Asimi,-,-
+Bubble,Ters Sirali,100000,Limit Asimi,-,-
+Bubble,Kismen Sirali,100000,Limit Asimi,-,-
+Shell,Rastgele,100000,35.9549,4198588,4249059
+Shell,Sirali,100000,9.3343,1500006,1500006
+Shell,Ters Sirali,100000,14.5885,2173519,2273500
+Shell,Kismen Sirali,100000,16.389,2106512,2114630
+Quick,Rastgele,100000,15.3105,2114410,438400
+Quick,Sirali,100000,5.67124,1647065,112112
+Quick,Ters Sirali,100000,6.29134,1646986,162136
+Quick,Kismen Sirali,100000,7.76868,1718586,156233
+Merge,Rastgele,100000,73.9222,1536473,3337856
+Merge,Sirali,100000,60.2149,853904,3337856
+Merge,Ters Sirali,100000,62.7146,877712,3337856
+Merge,Kismen Sirali,100000,63.5826,1040368,3337856
+Heap,Rastgele,100000,34.4501,3019691,1575048
+Heap,Sirali,100000,31.292,3115299,1648175
+Heap,Ters Sirali,100000,29.1353,2926577,1497581
+Heap,Kismen Sirali,100000,32.0395,3104011,1642001
+Quick_FirstPivot,Rastgele,100000,Limit Asimi,-,-
+Quick_FirstPivot,Sirali,100000,Limit Asimi,-,-
+Quick_FirstPivot,Ters Sirali,100000,Limit Asimi,-,-
+Quick_FirstPivot,Kismen Sirali,100000,Limit Asimi,-,-
+Shell_Knuth,Rastgele,100000,31.6535,3873538,3914877
+Shell_Knuth,Sirali,100000,5.98172,967146,967146
+Shell_Knuth,Ters Sirali,100000,10.3131,1476027,1529329
+Shell_Knuth,Kismen Sirali,100000,12.9254,1652544,1659308
